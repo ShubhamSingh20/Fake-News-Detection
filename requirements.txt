@@ -12,7 +12,7 @@ cffi==1.12.1
 chardet==3.0.4
 cssselect==1.0.3
 cycler==0.10.0
-Django==2.1.7
+Django==2.1.15
 django-crispy-forms==1.7.2
 docutils==0.14
 feedfinder2==0.0.4
