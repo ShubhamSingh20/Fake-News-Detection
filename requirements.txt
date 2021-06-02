@@ -63,6 +63,6 @@ termcolor==1.1.0
 tinysegmenter==0.3
 tldextract==2.2.1
 typing-extensions==3.7.2
-urllib3==1.21.1
+urllib3==1.26.5
 Werkzeug==0.14.1
 yarl==0.10.3
